@@ -12,8 +12,8 @@ separation-algorithms/
 │   └── klt.py
 ├── ica/        # ICA / FastICA
 │   └── ica.py
-├── mpls/       # MPLS
-│   └── mpls.py
+├── nlms/       # MPLS
+│   └── nlms.py
 ├── data/       # signaux de test
 └── notebooks/
 ```
